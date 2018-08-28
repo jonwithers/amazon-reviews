@@ -1,2 +1,3 @@
 .ipynb_checkpoints
 data/Reviews.csv
+data/database.sqlite
